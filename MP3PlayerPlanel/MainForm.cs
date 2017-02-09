@@ -71,6 +71,7 @@ namespace MP3PlayerPlanel
 
         private void PlaySong(int songIndex)
         {
+            
             //Create Wave
             _waveOutDevice = new WaveOut();
             ISampleProvider sampleProvider;
@@ -103,7 +104,10 @@ namespace MP3PlayerPlanel
             TagLib.File file = TagLib.File.Create(path);
 
             lblPerformer.Text = file.Tag.FirstPerformer;
+
             lblTitle.Text = file.Tag.Title;
+            lblTitle.Left = (panelBottom.Width / 2) - (lblTitle.Width / 2);
+
             lblAlbum.Text = file.Tag.Album;
             lblYear.Text = file.Tag.Year.ToString();
             lblGenre.Text = file.Tag.FirstGenre;
@@ -462,6 +466,18 @@ namespace MP3PlayerPlanel
             else chkShuffle.BackColor = Color.FromArgb(54, 54, 54);
         }
 
+        private void chkMute_CheckedChanged(object sender, EventArgs e)
+        {
+            if (chkMute.Checked)
+            {
+                volumeSlider.Volume = 0;
+            }
+            else
+            {
+                volumeSlider.Volume = 100;
+            }
+        }
+
         private void lbSongs_KeyDown(object sender, KeyEventArgs e)
         {
             if (e.KeyCode == Keys.Delete)
@@ -487,7 +503,7 @@ namespace MP3PlayerPlanel
         private void Form1_Load(object sender, EventArgs e)
         {
             lblPerformer.Text = string.Empty;
-            lblAlbum.Text = string.Empty;
+            lblTitle.Text = string.Empty;
             lblGenre.Text = string.Empty;
             lblYear.Text = string.Empty;
         }
@@ -499,5 +515,15 @@ namespace MP3PlayerPlanel
                 PrevNextSong('+');
             }
         }
+
+        private void panelBottom_MouseDown(object sender, MouseEventArgs e)
+        {
+            if (e.Button == MouseButtons.Left)
+            {
+                ReleaseCapture();
+                SendMessage(Handle, WM_NCLBUTTONDOWN, HT_CAPTION, 0);
+            }
+        }
+
     }
 }

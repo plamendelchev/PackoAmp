@@ -12,3 +12,17 @@ C:\Users\ogui_\Documents\Visual Studio 2015\Projects\MP3Playera\MP3PlayerPlanel\
 C:\Users\ogui_\Documents\Visual Studio 2015\Projects\MP3Playera\MP3PlayerPlanel\obj\Release\PackoAmp.Properties.Resources.resources
 C:\Users\ogui_\Documents\Visual Studio 2015\Projects\MP3Playera\MP3PlayerPlanel\obj\Release\PackoAmp.exe
 C:\Users\ogui_\Documents\Visual Studio 2015\Projects\MP3Playera\MP3PlayerPlanel\obj\Release\PackoAmp.pdb
+C:\Users\ogui_\Documents\Visual Studio 2015\Projects\GitProjects\PackoAmp\PackoAmp\MP3PlayerPlanel\bin\Release\PackoAmp.exe.config
+C:\Users\ogui_\Documents\Visual Studio 2015\Projects\GitProjects\PackoAmp\PackoAmp\MP3PlayerPlanel\obj\Release\PackoAmp.exe
+C:\Users\ogui_\Documents\Visual Studio 2015\Projects\GitProjects\PackoAmp\PackoAmp\MP3PlayerPlanel\obj\Release\PackoAmp.pdb
+C:\Users\ogui_\Documents\Visual Studio 2015\Projects\GitProjects\PackoAmp\PackoAmp\MP3PlayerPlanel\bin\Release\PackoAmp.exe
+C:\Users\ogui_\Documents\Visual Studio 2015\Projects\GitProjects\PackoAmp\PackoAmp\MP3PlayerPlanel\bin\Release\PackoAmp.pdb
+C:\Users\ogui_\Documents\Visual Studio 2015\Projects\GitProjects\PackoAmp\PackoAmp\MP3PlayerPlanel\bin\Release\NAudio.dll
+C:\Users\ogui_\Documents\Visual Studio 2015\Projects\GitProjects\PackoAmp\PackoAmp\MP3PlayerPlanel\bin\Release\policy.2.0.taglib-sharp.dll
+C:\Users\ogui_\Documents\Visual Studio 2015\Projects\GitProjects\PackoAmp\PackoAmp\MP3PlayerPlanel\bin\Release\taglib-sharp.dll
+C:\Users\ogui_\Documents\Visual Studio 2015\Projects\GitProjects\PackoAmp\PackoAmp\MP3PlayerPlanel\bin\Release\NAudio.xml
+C:\Users\ogui_\Documents\Visual Studio 2015\Projects\GitProjects\PackoAmp\PackoAmp\MP3PlayerPlanel\bin\Release\policy.2.0.taglib-sharp.config
+C:\Users\ogui_\Documents\Visual Studio 2015\Projects\GitProjects\PackoAmp\PackoAmp\MP3PlayerPlanel\obj\Release\PackoAmp.csprojResolveAssemblyReference.cache
+C:\Users\ogui_\Documents\Visual Studio 2015\Projects\GitProjects\PackoAmp\PackoAmp\MP3PlayerPlanel\obj\Release\MP3PlayerPlanel.Form1.resources
+C:\Users\ogui_\Documents\Visual Studio 2015\Projects\GitProjects\PackoAmp\PackoAmp\MP3PlayerPlanel\obj\Release\PackoAmp.Properties.Resources.resources
+C:\Users\ogui_\Documents\Visual Studio 2015\Projects\GitProjects\PackoAmp\PackoAmp\MP3PlayerPlanel\obj\Release\PackoAmp.csproj.GenerateResource.Cache

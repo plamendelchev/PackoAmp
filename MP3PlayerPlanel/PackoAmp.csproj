@@ -131,6 +131,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="logo.ico" />
+    <None Include="Resources\muteicon.png" />
     <None Include="Resources\117687589.jpg" />
     <None Include="Resources\minimize.png" />
   </ItemGroup>
