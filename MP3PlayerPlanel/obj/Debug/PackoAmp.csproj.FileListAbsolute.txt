@@ -1,0 +1,14 @@
+C:\Users\ogui_\Documents\Visual Studio 2015\Projects\MP3Playera\MP3PlayerPlanel\bin\Debug\NAudio.dll
+C:\Users\ogui_\Documents\Visual Studio 2015\Projects\MP3Playera\MP3PlayerPlanel\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\ogui_\Documents\Visual Studio 2015\Projects\MP3Playera\MP3PlayerPlanel\bin\Debug\taglib-sharp.dll
+C:\Users\ogui_\Documents\Visual Studio 2015\Projects\MP3Playera\MP3PlayerPlanel\bin\Debug\NAudio.xml
+C:\Users\ogui_\Documents\Visual Studio 2015\Projects\MP3Playera\MP3PlayerPlanel\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\ogui_\Documents\Visual Studio 2015\Projects\MP3Playera\MP3PlayerPlanel\obj\Debug\PackoAmp.csprojResolveAssemblyReference.cache
+C:\Users\ogui_\Documents\Visual Studio 2015\Projects\MP3Playera\MP3PlayerPlanel\obj\Debug\MP3PlayerPlanel.Form1.resources
+C:\Users\ogui_\Documents\Visual Studio 2015\Projects\MP3Playera\MP3PlayerPlanel\obj\Debug\PackoAmp.csproj.GenerateResource.Cache
+C:\Users\ogui_\Documents\Visual Studio 2015\Projects\MP3Playera\MP3PlayerPlanel\bin\Debug\PackoAmp.exe.config
+C:\Users\ogui_\Documents\Visual Studio 2015\Projects\MP3Playera\MP3PlayerPlanel\obj\Debug\PackoAmp.Properties.Resources.resources
+C:\Users\ogui_\Documents\Visual Studio 2015\Projects\MP3Playera\MP3PlayerPlanel\bin\Debug\PackoAmp.exe
+C:\Users\ogui_\Documents\Visual Studio 2015\Projects\MP3Playera\MP3PlayerPlanel\bin\Debug\PackoAmp.pdb
+C:\Users\ogui_\Documents\Visual Studio 2015\Projects\MP3Playera\MP3PlayerPlanel\obj\Debug\PackoAmp.exe
+C:\Users\ogui_\Documents\Visual Studio 2015\Projects\MP3Playera\MP3PlayerPlanel\obj\Debug\PackoAmp.pdb
